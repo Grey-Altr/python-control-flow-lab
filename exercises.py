@@ -31,7 +31,7 @@ def check_letter():
         print(f"{letter} is a consonant.")
         
 # Call the function
-# check_letter()
+check_letter()
 
 
 # Exercise 2: Old enough to vote?
@@ -62,7 +62,7 @@ def check_voting_eligibility():
         print(f"{age} is an ineligible voting age.")
 
 # Call the function
-# check_voting_eligibility()
+check_voting_eligibility()
 
 
 # Exercise 3: Calculate Dog Years
@@ -95,7 +95,7 @@ def calculate_dog_years():
     print(f"The dog's age in dog years is {dog_years}")
     
 # Call the function
-# calculate_dog_years()
+calculate_dog_years()
 
 # Exercise 4: Weather Advice
 #
@@ -130,7 +130,7 @@ def weather_advice():
     else:
         print("Wear light clothing.")
 # Call the function
-# weather_advice()
+weather_advice()
 
 # Exercise 5: What's the Season?
 #
